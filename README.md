@@ -8,6 +8,7 @@
 <span class="pl-k">&gt;</span> download scriptnya
 <span class="pl-k">&gt;</span> open tools terminal
 <span class="pl-k">&gt;</span> ketikan :
+<span class="pl-k">&gt;</spam> pip install -r requirements.txt
 <span class="pl-k">&gt;</span> python main.py -d (Your Dork) -w
 </pre>
 
